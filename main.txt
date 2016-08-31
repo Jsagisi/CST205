@@ -1,0 +1,4 @@
+import PIL
+import Image
+myImage = Image.open("Project1Images/1.png")
+myImage.show()
